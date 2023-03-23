@@ -1,0 +1,61 @@
+.about-container {
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 520px;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../../../assets/Skillsbg/bg.jfif");
+}
+
+.about-container .about-title h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.profileImage {
+  width: 60%;
+  height: 90%;
+  position: absolute;
+  bottom: 0;
+  margin-left: 80px;
+}
+
+.profileImage Img {
+  width: 120%;
+  position: absolute;
+  bottom: 0;
+  transform: translate(-50%);
+  transition: bottom 1s, left 1s;
+  margin-left: 64%;
+
+}
+
+.profileImage:hover Img {
+  left: 15%;
+}
+
+.test {
+  width: 420px;
+  height: 350px;
+  margin-left: 50px;
+  background-color: rgb(219, 219, 214);
+  border-radius: 0% 70% 67% 33% / 30% 30% 70% 70%;
+}
+
+.profileinformation h4{
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+.profileinformation ul{
+    font-size: 19px;
+}
+
+.profileinformation h3{
+   font-weight: bold;
+   font-size: 22px;
+}
