@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Blood Bank System",
+      "description": "Blood Bank and Donor System is an web application which is used to simplify and automate the process of searching blood in case of emergency and maintain the records of blood donors, recipients and blood stocks in the bank.",
+      "imageurl": "../assets/Project/BloodBank.png",
+      "liveproject":"http://www.mybloodbp0.com:81/",
+      "github":"https://github.com/CoderPoojam/Blood-Bank-and-Donor-System-using-MVC",
+      "flipTitle":"Please login into website using this credentials",
+      "username":"pooja@gmail.com",
+      "password":"pooja@123"
+    },
+    {
+        "id": 2,
+        "name": "TOPPER",
+        "description": "Topper is a leaning website, Its an fastest way to find, buy that course and learn it on your device. It also included some reviews and ratings from people so its easy to understand how popular is that.",
+        "imageurl": "../../assets/Project/Topper.png",
+        "liveproject":"https://topperscssdatabase.firebaseapp.com/firstmainpage",
+        "github":"https://github.com/CoderPoojam/TopperWebsite-using-Angular",
+        "flipTitle":"Please login into website using this credentials",
+        "username":"pooja1@gmail.com",
+        "password":"pooja@123"
+    },
+    {
+        "id": 3,
+        "name": "E-Commerse Website",
+        "description": " Buy Cloth Store is an shopping site for fashion and lifestyle. Admin can Add, delete and update the product.",
+        "imageurl": "../../assets/Project/BuyClothStore.png",
+        "liveproject":"http://www.webapiprojectp0.com:82/BuyCloth",
+        "github":"https://github.com/CoderPoojam/E-Commerce-Website-using-Angular-11-and-WebAPI",
+        "flipTitle":"This is Demo website",
+        "username":"pooja1@gmail.com",
+        "password":"pooja@123"
+    },
+    {
+        "id": 4,
+        "name": "React Basic Weather App",
+        "description": "Weather App is an site for detecting location and showing weather of your area with temperature, humidity and much more.",
+        "imageurl": "../../assets/Project/WeatherApp.png",
+        "liveproject":"https://coderpoojam.github.io/ReactWeatherApplication/",
+        "github":"https://github.com/CoderPoojam/ReactWeatherApplication",
+        "flipTitle":"This is Wheather website",
+        "username":"pooja1@gmail.com",
+        "password":"pooja@123"
+    }
+  ]
