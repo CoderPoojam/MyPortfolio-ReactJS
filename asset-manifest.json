@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio-ReactJS/static/css/main.f465bba2.css",
+    "main.js": "/MyPortfolio-ReactJS/static/js/main.85dd2550.js",
+    "static/js/787.27ca2965.chunk.js": "/MyPortfolio-ReactJS/static/js/787.27ca2965.chunk.js",
+    "static/media/WeatherApp.png": "/MyPortfolio-ReactJS/static/media/WeatherApp.979f46bae683778c2e67.png",
+    "static/media/profilephoto.jpg": "/MyPortfolio-ReactJS/static/media/profilephoto.5d61cd679289b742460a.jpg",
+    "static/media/BuyClothStore.png": "/MyPortfolio-ReactJS/static/media/BuyClothStore.911f1675bd0eb50b8f77.png",
+    "static/media/Topper.png": "/MyPortfolio-ReactJS/static/media/Topper.017a683ad251d6a08c0c.png",
+    "static/media/JS.png": "/MyPortfolio-ReactJS/static/media/JS.acd72de8ef6ac22692de.png",
+    "static/media/BloodBank.png": "/MyPortfolio-ReactJS/static/media/BloodBank.b911deb964abce4fb2a9.png",
+    "static/media/CSharp.jpg": "/MyPortfolio-ReactJS/static/media/CSharp.81542e03f313dd15c616.jpg",
+    "static/media/HtmlCSS.png": "/MyPortfolio-ReactJS/static/media/HtmlCSS.dd18605c765560aaa4d3.png",
+    "static/media/SqlServer.jpg": "/MyPortfolio-ReactJS/static/media/SqlServer.9d758def01234bded1ec.jpg",
+    "static/media/SC900.png": "/MyPortfolio-ReactJS/static/media/SC900.dd659d99e25c116cd6f4.png",
+    "static/media/ReactJs.png": "/MyPortfolio-ReactJS/static/media/ReactJs.8ef6aae8f500a3c55050.png",
+    "static/media/SqlServerIcon.png": "/MyPortfolio-ReactJS/static/media/SqlServerIcon.f5e9c9adcc9e27e1f5f5.png",
+    "static/media/ProfileImage.png": "/MyPortfolio-ReactJS/static/media/ProfileImage.a05ef665b920fb0c975f.png",
+    "static/media/htmlcssicon.png": "/MyPortfolio-ReactJS/static/media/htmlcssicon.92666487c0aa23285e28.png",
+    "static/media/AngularIcon.png": "/MyPortfolio-ReactJS/static/media/AngularIcon.8cbd3d8b9701ad8e21e7.png",
+    "static/media/AngularC.jpg": "/MyPortfolio-ReactJS/static/media/AngularC.446ab3858327ebfdc239.jpg",
+    "static/media/bg.jfif": "/MyPortfolio-ReactJS/static/media/bg.e0e43bee91f7ecbdb311.jfif",
+    "static/media/ReactIcon.png": "/MyPortfolio-ReactJS/static/media/ReactIcon.c0e8ca45355fd1d3795b.png",
+    "static/media/MicrosoftSC-900Icon.png": "/MyPortfolio-ReactJS/static/media/MicrosoftSC-900Icon.f7a894e9b2d75b580c5a.png",
+    "static/media/shape-bg.png": "/MyPortfolio-ReactJS/static/media/shape-bg.5ec95daa8875f046a90d.png",
+    "index.html": "/MyPortfolio-ReactJS/index.html",
+    "main.f465bba2.css.map": "/MyPortfolio-ReactJS/static/css/main.f465bba2.css.map",
+    "main.85dd2550.js.map": "/MyPortfolio-ReactJS/static/js/main.85dd2550.js.map",
+    "787.27ca2965.chunk.js.map": "/MyPortfolio-ReactJS/static/js/787.27ca2965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f465bba2.css",
+    "static/js/main.85dd2550.js"
+  ]
+}
